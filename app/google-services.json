@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "817937612907",
+    "firebase_url": "https://jobscheduler-c34d9.firebaseio.com",
+    "project_id": "jobscheduler-c34d9",
+    "storage_bucket": "jobscheduler-c34d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817937612907:android:999e9e3c27da7c39",
+        "android_client_info": {
+          "package_name": "com.mobiledoctors24.rxaffectsui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817937612907-li5757e6trrl5cod0d86208lh9ut7ai8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf2UKU9YDBwiSHk1cwvjt8QDUig0ZFqxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
